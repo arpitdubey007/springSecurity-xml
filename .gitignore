@@ -1,0 +1,14 @@
+.idea/
+reap.iml
+.gradle/
+build/
+application-development.yml
+global-groovy.log
+soapui-errors.log
+soapui.log
+.asscache
+out/
+.classpath
+.project
+target/
+.settings
